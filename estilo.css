@@ -3,20 +3,21 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .primeiro{
-    font-size: 10px;
+    font-size: 10px; 
+    text-decoration: line-through;
 }
 .terceiro {
     list-style: none;
     padding: 10px;
-   
 }
 .quarto {
     list-style: none;
     display: flex;
     justify-content: center;
-    
 }
 a {
     text-decoration: none;
     padding: 10px;
+
 }
+
