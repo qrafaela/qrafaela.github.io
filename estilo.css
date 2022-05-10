@@ -3,25 +3,24 @@
    margin: 0;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    color: rgb(245, 240, 246);
-   
-}
+   }
 
 a { 
     list-style: none;
     text-decoration: none;
     justify-content: center;
-    
-  
 }
+
 body {
     background: url(./forest-g904e384ff_1920.jpg)  no-repeat center center fixed;
     background-size: cover;
     text-align: center;
 }
+
 #foto {
     font-size: 15px;
 }
-p, li 
-{
+
+p, li {
     font-size: 20px;
 }
