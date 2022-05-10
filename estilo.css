@@ -1,23 +1,27 @@
-body {
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+*{
+   padding: 0;
+   margin: 0;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: rgb(245, 240, 246);
+   
 }
-.primeiro{
-    font-size: 10px; 
-    text-decoration: line-through;
-}
-.terceiro {
+
+a { 
     list-style: none;
-    padding: 10px;
-}
-.quarto {
-    list-style: none;
-    display: flex;
-    justify-content: center;
-}
-a {
     text-decoration: none;
-    padding: 10px;
-
+    justify-content: center;
+    
+  
 }
-
+body {
+    background: url(./forest-g904e384ff_1920.jpg)  no-repeat center center fixed;
+    background-size: cover;
+    text-align: center;
+}
+#foto {
+    font-size: 15px;
+}
+p, li 
+{
+    font-size: 20px;
+}
